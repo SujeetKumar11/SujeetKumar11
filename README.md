@@ -21,7 +21,7 @@
 Batman theme for a reason: I work in the dark (literally — late nights), ship quietly, and leave the city safer with better models.
 
 - 🦇 **Current:** Data Analyst and AI · **Wipro DAAI** (Mar 2026 — Present)
-- 🧪 **Freelance:** AI Trainer & Data Annotation · Afterquery · Snorkel · Alligner
+- 🧪 **Freelance:** AI Trainer & Data Annotation · Snorkel · Alligner
 - 🎓 **B.E. CSE** · Chandigarh University · CGPA **8.14**
 - 🏆 Tekathon 2.0 Winner (SIH 2023) · NPTEL IoT Topper (Top 2%)
 - 📍 Bengaluru, Karnataka
@@ -66,12 +66,12 @@ Batman theme for a reason: I work in the dark (literally — late nights), ship 
 ## 📊 Batcomputer Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SujeetKumar11&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&icon_color=F5D76E&text_color=EAEAEA&ring_color=F5D76E" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetKumar11&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&text_color=EAEAEA" alt="langs" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SujeetKumar11&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&icon_color=F5D76E&text_color=EAEAEA&ring_color=F5D76E" alt="stats" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SujeetKumar11&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&text_color=EAEAEA" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujeetKumar11&theme=dark&hide_border=true&background=0A0A0A&ring=F5D76E&fire=F5D76E&currStreakLabel=F5D76E" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=SujeetKumar11&theme=dark&hide_border=true&background=0A0A0A&ring=F5D76E&fire=F5D76E&currStreakLabel=F5D76E" alt="streak" />
 </p>
 
 ---
