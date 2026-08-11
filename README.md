@@ -66,7 +66,7 @@ Batman theme for a reason: I work in the dark (literally — late nights), ship 
 ## 📊 Batcomputer Stats
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/SujeetKumar11/SujeetKumar11/output/stats.svg" alt="stats" />
+  <img height="165" src="https://raw.githubusercontent.com/SujeetKumar11/SujeetKumar11/output/stats.svg?v=2" alt="stats" />
   <img height="165" src="https://raw.githubusercontent.com/SujeetKumar11/SujeetKumar11/output/top-langs.svg" alt="langs" />
 </p>
 
