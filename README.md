@@ -66,12 +66,12 @@ Batman theme for a reason: I work in the dark (literally — late nights), ship 
 ## 📊 Batcomputer Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SujeetKumar11&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&icon_color=F5D76E&text_color=EAEAEA&ring_color=F5D76E" alt="stats" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SujeetKumar11&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&text_color=EAEAEA" alt="langs" />
+  <img height="165" src="https://raw.githubusercontent.com/SujeetKumar11/SujeetKumar11/output/stats.svg" alt="stats" />
+  <img height="165" src="https://raw.githubusercontent.com/SujeetKumar11/SujeetKumar11/output/top-langs.svg" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SujeetKumar11&theme=dark&hide_border=true&background=0A0A0A&ring=F5D76E&fire=F5D76E&currStreakLabel=F5D76E" alt="streak" />
+  <img src="https://raw.githubusercontent.com/SujeetKumar11/SujeetKumar11/output/streak.svg" alt="streak" />
 </p>
 
 ---

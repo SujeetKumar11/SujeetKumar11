@@ -1,4 +1,4 @@
-name: Generate Batman Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -14,9 +14,32 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&icon_color=F5D76E&text_color=EAEAEA&ring_color=F5D76E
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F5D76E&text_color=EAEAEA
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        run: |
+          mkdir -p dist
+          curl -fsSL "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0A0A0A&ring=F5D76E&fire=F5D76E&currStreakLabel=F5D76E" -o dist/streak.svg
+
       - name: Generate contribution snakes
         uses: Platane/snk@v3
         with:
