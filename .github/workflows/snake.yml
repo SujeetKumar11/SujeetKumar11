@@ -1,0 +1,35 @@
+name: Generate Batman Snake
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution snakes
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-batman.svg?color_snake=#F5D76E&color_dots=#0A0A0A,#1A1A1A,#4A4200,#8A7A00,#F5D76E
+            dist/github-contribution-grid-snake.gif?color_snake=#F5D76E&color_dots=#0A0A0A,#1A1A1A,#4A4200,#8A7A00,#F5D76E
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
