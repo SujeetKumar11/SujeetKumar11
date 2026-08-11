@@ -14,28 +14,26 @@
 
 ---
 
-## 🌃 About
+## 🚀 About Me
 
-> *"It's not who I am underneath — it's what I ship that defines me."*
-
-Batman theme for a reason: I work in the dark (literally — late nights), ship quietly, and leave the city safer with better models.
+I'm passionate about making AI practical — training people, building models, and turning data into decisions.
 
 - 🦇 **Current:** Data Analyst and AI · **Wipro DAAI** (Mar 2026 — Present)
 - 🧪 **Freelance:** AI Trainer & Data Annotation · Snorkel · Alligner
-- 🎓 **B.E. CSE** · Chandigarh University · CGPA **8.14**
-- 🏆 Tekathon 2.0 Winner (SIH 2023) · NPTEL IoT Topper (Top 2%)
-- 📍 Bengaluru, Karnataka
+- 🎓 **Education:** B.E. CSE · Chandigarh University · CGPA **8.14**
+- 🏆 **Highlights:** Tekathon 2.0 Winner (SIH 2023) · NPTEL IoT Topper (Top 2%)
+- 📍 **Location:** Bengaluru, Karnataka
+
+> *"It's not who I am underneath — it's what I ship that defines me."*
 
 ---
 
-## ⚔️ Utility Belt
+## ⚔️ Tech Stack
 
-| Domain | Tools |
-|:-------|:------|
-| AI / ML | TensorFlow · PyTorch · Scikit-learn · XGBoost |
-| Deep Learning | CNNs · RNNs · Transformers · Transfer Learning |
-| Vision / NLP | OpenCV · LLMs · Prompt Engineering · Agentic AI |
-| Data / Code | Python · SQL · Pandas · NumPy · Tableau · JavaScript |
+**AI / ML:** TensorFlow · PyTorch · Scikit-learn · XGBoost  
+**Deep Learning:** CNNs · RNNs · Transformers · Transfer Learning  
+**Vision / NLP:** OpenCV · LLMs · Prompt Engineering · Agentic AI  
+**Data / Code:** Python · SQL · Pandas · NumPy · Tableau · JavaScript · React
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,javascript,react,html,css,git,github,vscode&theme=dark" alt="skills" />
@@ -43,15 +41,15 @@ Batman theme for a reason: I work in the dark (literally — late nights), ship 
 
 ---
 
-## 🦇 Batcave Missions
+## 🦇 Featured Projects
 
-| Project | Stack |
-|:--------|:------|
-| [AI Content Generation](https://github.com/SujeetKumar11/AI-Driven-Content-Generation-Platform) | Python · Flask · OpenAI |
-| [Object Detection · Traffic](https://sujeetkumar11.github.io/sujeet-kumar-portfolio/#projects) | OpenCV · TensorFlow |
-| [LawSync E-Portal](https://github.com/SujeetKumar11/LawSync) | JS · Firebase · SIH |
+| Project | Stack | Link |
+|:--------|:------|:-----|
+| AI Content Generation | Python · Flask · OpenAI | [Repo](https://github.com/SujeetKumar11/AI-Driven-Content-Generation-Platform) |
+| Object Detection · Traffic | OpenCV · TensorFlow | [Portfolio](https://sujeetkumar11.github.io/sujeet-kumar-portfolio/#projects) |
+| LawSync E-Portal | JS · Firebase · SIH | [Repo](https://github.com/SujeetKumar11/LawSync) |
 
-🌐 Full portfolio: **[sujeetkumar11.github.io/sujeet-kumar-portfolio](https://sujeetkumar11.github.io/sujeet-kumar-portfolio/)**
+🌐 **Live portfolio:** [sujeetkumar11.github.io/sujeet-kumar-portfolio](https://sujeetkumar11.github.io/sujeet-kumar-portfolio/)
 
 ---
 
@@ -63,10 +61,10 @@ Batman theme for a reason: I work in the dark (literally — late nights), ship 
 
 ---
 
-## 📊 Batcomputer Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/SujeetKumar11/SujeetKumar11/output/stats.svg?v=2" alt="stats" />
+  <img height="165" src="https://raw.githubusercontent.com/SujeetKumar11/SujeetKumar11/output/stats.svg" alt="stats" />
   <img height="165" src="https://raw.githubusercontent.com/SujeetKumar11/SujeetKumar11/output/top-langs.svg" alt="langs" />
 </p>
 
@@ -76,13 +74,15 @@ Batman theme for a reason: I work in the dark (literally — late nights), ship 
 
 ---
 
-## 📡 Signal Me
+## 📡 Let's Connect
 
 Open to collaborations · AI training · analytics missions
 
-[Portfolio](https://sujeetkumar11.github.io/sujeet-kumar-portfolio/) · [LinkedIn](https://www.linkedin.com/in/sujeet-kumar-bb5250226/) · [Email](mailto:sujeetshroff7484jagd@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=F5D76E)](https://sujeetkumar11.github.io/sujeet-kumar-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F5D76E)](https://www.linkedin.com/in/sujeet-kumar-bb5250226/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=F5D76E)](mailto:sujeetshroff7484jagd@gmail.com)
 
-**🦇 "I wear a cape of code — and Gotham is my terminal."**
+**🦇 Gotham runs on code — and I'm on the night shift.**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SujeetKumar11&style=for-the-badge&color=f5d76e&label=PROFILE+VIEWS" alt="views" />
